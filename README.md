@@ -16,7 +16,9 @@ https://nodejs.org/en
 ### RUNNING THE APP LOCALLY
 
 ```bash
--clone it :::  
+-clone it with https :::  https://github.com/gbubemi22/taskApiWithSocket.git
+Or
+- clone it with ssh :::  git@github.com:gbubemi22/taskApiWithSocket.git
 -run npm i to install Dependences
 - run npm run dev || make run
 - port 6001

@@ -3,14 +3,16 @@
 ### POWERED BY
 
 https://nodejs.org/en
+https://www.typescriptlang.org/
 
 ### ABOUT
 
-### Runs On One Service with Two modules
+### Runs On One Service with Three modules
 
 ```bash
 -User
 -Task
+-Event
 ```
 
 ### RUNNING THE APP LOCALLY
@@ -47,12 +49,13 @@ SERVICE_NAME='Niyo-Service'
 
 ### Tools used
 
-- Node.js/Express
+- Node.js/Express/TypeScript
 - Ioredis
 - jsonwebtoken
 - Socket.io
 - io
 - mongodb
+
 
 ### Postman Doc For Authentication
 
